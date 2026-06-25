@@ -166,6 +166,12 @@
                      "filename":  "createtaczauto-1.5.1-forge-1.20.1.jar"
                  },
                  {
+                     "md5":  "2fdcc97cbc66c4b2492b407c792e7159",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/curios-forge-5.14.1+1.20.1.jar",
+                     "name":  "curios-forge-5.14.1+1.20.1",
+                     "filename":  "curios-forge-5.14.1+1.20.1.jar"
+                 },
+                 {
                      "md5":  "61ed4f66d05b3b0a908fb171ec7bdc83",
                      "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/DayCount-1.3.9-Forge-mc1.20.jar",
                      "name":  "DayCount-1.3.9-Forge-mc1.20",
@@ -424,6 +430,12 @@
                      "filename":  "refurbished_furniture-forge-1.20.1-1.0.20.jar"
                  },
                  {
+                     "md5":  "5bc39d1951a64795e8eb322a1779cdaf",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/SBW 0.8.8  0.8.9 FINAL FORGE sbw-drone-warfare-1.0.1.jar",
+                     "name":  "SBW 0.8.8  0.8.9 FINAL FORGE sbw-drone-warfare-1.0.1",
+                     "filename":  "SBW 0.8.8  0.8.9 FINAL FORGE sbw-drone-warfare-1.0.1.jar"
+                 },
+                 {
                      "md5":  "3526211f591edc2efa4ac2fa4cbf4b5c",
                      "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/Simple Weapons 1.4.5 - 1.20.1.jar",
                      "name":  "Simple Weapons 1.4.5 - 1.20.1",
@@ -494,6 +506,12 @@
                      "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/spore_2.2.0h_1.20.1.jar",
                      "name":  "spore_2.2.0h_1.20.1",
                      "filename":  "spore_2.2.0h_1.20.1.jar"
+                 },
+                 {
+                     "md5":  "70c62bf783b79270ace5c32e6fb344cb",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/superbwarfare-0.8.9-final-mc1.20.1-6effe4385-all.jar",
+                     "name":  "superbwarfare-0.8.9-final-mc1.20.1-6effe4385-all",
+                     "filename":  "superbwarfare-0.8.9-final-mc1.20.1-6effe4385-all.jar"
                  },
                  {
                      "md5":  "eb67e7fea407250cfa9fcf897f9b63b9",
