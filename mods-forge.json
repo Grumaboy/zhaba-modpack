@@ -1,0 +1,13 @@
+{
+  "modpack_name": "Zhaba Forge Pack",
+  "version": "1.20.1",
+  "loader": "Forge",
+  "mods": [
+    {
+      "name": "Example Mod",
+      "filename": "example-mod-1.0.jar",
+      "url": "https://raw.githubusercontent.com/your-username/zhaba-modpack/main/mods/example-mod-1.0.jar",
+      "md5": "5d41402abc4b2a76b9719d911017c592"
+    }
+  ]
+}
