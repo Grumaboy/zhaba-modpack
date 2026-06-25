@@ -4,16 +4,574 @@
   "loader": "Forge",
   "mods": [
     {
-      "name": "E4mc",
-      "filename": "e4mc-forge-6.2.0.jar",
-      "url": "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/e4mc-forge-6.2.0.jar",
-      "md5": "6FCBCBF23873D9D8A8424854DF4EDEB5"
-    },
-    {
-      "md5":  "0a9943e374cbd9d6318bade4891e51e0",
-      "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/jei-1.20.1-forge-15.20.0.132.jar",
-      "name":  "jei-1.20.1-forge-15.20.0.132",
-      "filename":  "jei-1.20.1-forge-15.20.0.132.jar"
-    }
+                     "md5":  "df84fbdadaf7947dc530872fa60fbc56",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/alltheleaks-1.1.1+1.20.1-forge.jar",
+                     "name":  "alltheleaks-1.1.1+1.20.1-forge",
+                     "filename":  "alltheleaks-1.1.1+1.20.1-forge.jar"
+                 },
+                 {
+                     "md5":  "73a3b84736be6df78c6395efc6767831",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/AnimaticaReforged-1.20.1-0.1.2.jar",
+                     "name":  "AnimaticaReforged-1.20.1-0.1.2",
+                     "filename":  "AnimaticaReforged-1.20.1-0.1.2.jar"
+                 },
+                 {
+                     "md5":  "dae63cea9c951dda542a4005ceef3953",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/appleskin-forge-mc1.20.1-2.5.1.jar",
+                     "name":  "appleskin-forge-mc1.20.1-2.5.1",
+                     "filename":  "appleskin-forge-mc1.20.1-2.5.1.jar"
+                 },
+                 {
+                     "md5":  "0ac609e384ddc9002ba4ce93a6a0b100",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/azurelib-neo-1.20.1-3.1.11.jar",
+                     "name":  "azurelib-neo-1.20.1-3.1.11",
+                     "filename":  "azurelib-neo-1.20.1-3.1.11.jar"
+                 },
+                 {
+                     "md5":  "499467bc8050be8893b08995438cc026",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/balm-forge-1.20.1-7.3.38-all.jar",
+                     "name":  "balm-forge-1.20.1-7.3.38-all",
+                     "filename":  "balm-forge-1.20.1-7.3.38-all.jar"
+                 },
+                 {
+                     "md5":  "8401dcabed56e5b48a8ac36debe32c0a",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/berezka_api-1.2.9.4-forge-1.20.1.jar",
+                     "name":  "berezka_api-1.2.9.4-forge-1.20.1",
+                     "filename":  "berezka_api-1.2.9.4-forge-1.20.1.jar"
+                 },
+                 {
+                     "md5":  "b288dabeb411ef564a660a56e60962c6",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/bettercombat-forge-1.9.0+1.20.1.jar",
+                     "name":  "bettercombat-forge-1.9.0+1.20.1",
+                     "filename":  "bettercombat-forge-1.9.0+1.20.1.jar"
+                 },
+                 {
+                     "md5":  "2f0ba355d196c19dc324b92529008820",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/BetterCopper 1.20.1-1.3.jar",
+                     "name":  "BetterCopper 1.20.1-1.3",
+                     "filename":  "BetterCopper 1.20.1-1.3.jar"
+                 },
+                 {
+                     "md5":  "7411ae023390cf6b148f05a6b685279f",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/BetterF3-7.0.2-Forge-1.20.1.jar",
+                     "name":  "BetterF3-7.0.2-Forge-1.20.1",
+                     "filename":  "BetterF3-7.0.2-Forge-1.20.1.jar"
+                 },
+                 {
+                     "md5":  "298625b2f4567069bcfbea3dceba294d",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/BetterThirdPerson-Forge-1.20-1.9.0.jar",
+                     "name":  "BetterThirdPerson-Forge-1.20-1.9.0",
+                     "filename":  "BetterThirdPerson-Forge-1.20-1.9.0.jar"
+                 },
+                 {
+                     "md5":  "6a605130d4feaafd2c4415974a560be2",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/better_weaponry-1.1.3-forge-1.20.1.jar",
+                     "name":  "better_weaponry-1.1.3-forge-1.20.1",
+                     "filename":  "better_weaponry-1.1.3-forge-1.20.1.jar"
+                 },
+                 {
+                     "md5":  "832f4c5c190e3cbd89d43508f23e49de",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/chaoszpack v.1.4.1 TacZ.jar",
+                     "name":  "chaoszpack v.1.4.1 TacZ",
+                     "filename":  "chaoszpack v.1.4.1 TacZ.jar"
+                 },
+                 {
+                     "md5":  "e15bf86ce9b65ee64a2eef9cd1a93651",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/chaoszpack_structures-1.0.2-1.20.1.jar",
+                     "name":  "chaoszpack_structures-1.0.2-1.20.1",
+                     "filename":  "chaoszpack_structures-1.0.2-1.20.1.jar"
+                 },
+                 {
+                     "md5":  "bc6bcc6b233e6d3ef5c9cfff0227259e",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/chaoszproject-bandits-1.0.0-1.20.1.jar",
+                     "name":  "chaoszproject-bandits-1.0.0-1.20.1",
+                     "filename":  "chaoszproject-bandits-1.0.0-1.20.1.jar"
+                 },
+                 {
+                     "md5":  "4a52fd19e9b20fe5f399d7d435f0f32b",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/chat_heads-0.15.2-forge-1.20.jar",
+                     "name":  "chat_heads-0.15.2-forge-1.20",
+                     "filename":  "chat_heads-0.15.2-forge-1.20.jar"
+                 },
+                 {
+                     "md5":  "ca5de5acbcb4a30c010aa6953bd7ef53",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/cloth-config-11.1.136-forge.jar",
+                     "name":  "cloth-config-11.1.136-forge",
+                     "filename":  "cloth-config-11.1.136-forge.jar"
+                 },
+                 {
+                     "md5":  "ad3316d461ca579585df7507ac789d85",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/combatroll-forge-1.3.3+1.20.1.jar",
+                     "name":  "combatroll-forge-1.3.3+1.20.1",
+                     "filename":  "combatroll-forge-1.3.3+1.20.1.jar"
+                 },
+                 {
+                     "md5":  "7b7a482c48dc0e76120f0bd91af1e01a",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/connectedglass-1.1.14-forge-mc1.20.1.jar",
+                     "name":  "connectedglass-1.1.14-forge-mc1.20.1",
+                     "filename":  "connectedglass-1.1.14-forge-mc1.20.1.jar"
+                 },
+                 {
+                     "md5":  "5202a17ddcb2f93de07e6e783dbcc50b",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/Connector-1.0.0-beta.48+1.20.1.jar",
+                     "name":  "Connector-1.0.0-beta.48+1.20.1",
+                     "filename":  "Connector-1.0.0-beta.48+1.20.1.jar"
+                 },
+                 {
+                     "md5":  "d14cdccb4b6c161d9846cc8cdf03068e",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/continuity-3.0.0+1.20.1.forge.jar",
+                     "name":  "continuity-3.0.0+1.20.1.forge",
+                     "filename":  "continuity-3.0.0+1.20.1.forge.jar"
+                 },
+                 {
+                     "md5":  "8eea809da8a9220834f34e3b88be0f94",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/continuity-3.0.2-custom-fabric-connector-fix+1.20.1.jar",
+                     "name":  "continuity-3.0.2-custom-fabric-connector-fix+1.20.1",
+                     "filename":  "continuity-3.0.2-custom-fabric-connector-fix+1.20.1.jar"
+                 },
+                 {
+                     "md5":  "6fb9ccbe8c05c1da61c224d1127e9643",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/coroutil-forge-1.20.1-1.3.7.jar",
+                     "name":  "coroutil-forge-1.20.1-1.3.7",
+                     "filename":  "coroutil-forge-1.20.1-1.3.7.jar"
+                 },
+                 {
+                     "md5":  "a486f676f5e47e5846e31cb66cb5c16d",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/corpse-forge-1.20.1-1.0.23.jar",
+                     "name":  "corpse-forge-1.20.1-1.0.23",
+                     "filename":  "corpse-forge-1.20.1-1.0.23.jar"
+                 },
+                 {
+                     "md5":  "6ebc5c57638c1678359eac65b924c310",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/create-1.20.1-6.0.8.jar",
+                     "name":  "create-1.20.1-6.0.8",
+                     "filename":  "create-1.20.1-6.0.8.jar"
+                 },
+                 {
+                     "md5":  "f6e19dcecf60a85efe6c05372d331033",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/createbetterfps-1.20.1-1.1.2.jar",
+                     "name":  "createbetterfps-1.20.1-1.1.2",
+                     "filename":  "createbetterfps-1.20.1-1.1.2.jar"
+                 },
+                 {
+                     "md5":  "3e0976b862fd087493c7356f623f5cd7",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/createdeco-2.0.3-1.20.1-forge.jar",
+                     "name":  "createdeco-2.0.3-1.20.1-forge",
+                     "filename":  "createdeco-2.0.3-1.20.1-forge.jar"
+                 },
+                 {
+                     "md5":  "654e866e66ef4f6f624c2912c42784da",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/createtaczauto-1.5.1-forge-1.20.1.jar",
+                     "name":  "createtaczauto-1.5.1-forge-1.20.1",
+                     "filename":  "createtaczauto-1.5.1-forge-1.20.1.jar"
+                 },
+                 {
+                     "md5":  "61ed4f66d05b3b0a908fb171ec7bdc83",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/DayCount-1.3.9-Forge-mc1.20.jar",
+                     "name":  "DayCount-1.3.9-Forge-mc1.20",
+                     "filename":  "DayCount-1.3.9-Forge-mc1.20.jar"
+                 },
+                 {
+                     "md5":  "780bd21f73ed1d2c901c00ade26b2f7d",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/doomsday_decoration-1.1.3-forge-1.20.1.jar",
+                     "name":  "doomsday_decoration-1.1.3-forge-1.20.1",
+                     "filename":  "doomsday_decoration-1.1.3-forge-1.20.1.jar"
+                 },
+                 {
+                     "md5":  "11b7c6ffe2cbb3d5303106d56ccd3fc7",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/doomsday_translations-1.0.7.jar",
+                     "name":  "doomsday_translations-1.0.7",
+                     "filename":  "doomsday_translations-1.0.7.jar"
+                 },
+                 {
+                     "md5":  "f8df69d0af455b6f47acb88ab747d1a3",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/dynamic-fps-3.11.4+minecraft-1.20.0-forge.jar",
+                     "name":  "dynamic-fps-3.11.4+minecraft-1.20.0-forge",
+                     "filename":  "dynamic-fps-3.11.4+minecraft-1.20.0-forge.jar"
+                 },
+                 {
+                     "md5":  "6fcbcbf23873d9d8a8424854df4edeb5",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/e4mc-forge-6.2.0.jar",
+                     "name":  "e4mc-forge-6.2.0",
+                     "filename":  "e4mc-forge-6.2.0.jar"
+                 },
+                 {
+                     "md5":  "1dfb2ee49ce9ad5d484ff3eea0d628b7",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/embeddium-0.3.31+mc1.20.1.jar",
+                     "name":  "embeddium-0.3.31+mc1.20.1",
+                     "filename":  "embeddium-0.3.31+mc1.20.1.jar"
+                 },
+                 {
+                     "md5":  "f54a5baa0a9613d13ad0e781d245338b",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/entityculling-forge-1.10.5-mc1.20.1.jar",
+                     "name":  "entityculling-forge-1.10.5-mc1.20.1",
+                     "filename":  "entityculling-forge-1.10.5-mc1.20.1.jar"
+                 },
+                 {
+                     "md5":  "e231f88d8db07e4761d1c53da67ecad4",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/Essential_1-4-0-3_forge_1-20-1.jar",
+                     "name":  "Essential_1-4-0-3_forge_1-20-1",
+                     "filename":  "Essential_1-4-0-3_forge_1-20-1.jar"
+                 },
+                 {
+                     "md5":  "2859d401e221e94acf0b48c5f7efa50b",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/fabric-api-0.92.6+1.11.14+1.20.1.jar",
+                     "name":  "fabric-api-0.92.6+1.11.14+1.20.1",
+                     "filename":  "fabric-api-0.92.6+1.11.14+1.20.1.jar"
+                 },
+                 {
+                     "md5":  "48b8d2df29ea216a625928e29a6434da",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/FastFurnace-1.20.1-8.0.2.jar",
+                     "name":  "FastFurnace-1.20.1-8.0.2",
+                     "filename":  "FastFurnace-1.20.1-8.0.2.jar"
+                 },
+                 {
+                     "md5":  "f52f538207a4829d7060550092ce2383",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/ferritecore-6.0.1-forge.jar",
+                     "name":  "ferritecore-6.0.1-forge",
+                     "filename":  "ferritecore-6.0.1-forge.jar"
+                 },
+                 {
+                     "md5":  "6d9a54cd004b15028673b309243e07a2",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/framework-forge-1.20.1-0.8.0.jar",
+                     "name":  "framework-forge-1.20.1-0.8.0",
+                     "filename":  "framework-forge-1.20.1-0.8.0.jar"
+                 },
+                 {
+                     "md5":  "4bec4aaf7cd05cb841811198e89c87af",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/fusion-1.3.3-forge-mc1.20.1.jar",
+                     "name":  "fusion-1.3.3-forge-mc1.20.1",
+                     "filename":  "fusion-1.3.3-forge-mc1.20.1.jar"
+                 },
+                 {
+                     "md5":  "83c73bcbf5778235569025ed968dc3ec",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/geckolib-forge-1.20.1-4.8.4.jar",
+                     "name":  "geckolib-forge-1.20.1-4.8.4",
+                     "filename":  "geckolib-forge-1.20.1-4.8.4.jar"
+                 },
+                 {
+                     "md5":  "e0aff20857550f67e21ad1e764eef05d",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/horror_element_mod-1.6.3-forge-1.20.1.jar",
+                     "name":  "horror_element_mod-1.6.3-forge-1.20.1",
+                     "filename":  "horror_element_mod-1.6.3-forge-1.20.1.jar"
+                 },
+                 {
+                     "md5":  "8fb21bb328cc322c6d9749eff087509f",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/ImmediatelyFast-Forge-1.5.4+1.20.4.jar",
+                     "name":  "ImmediatelyFast-Forge-1.5.4+1.20.4",
+                     "filename":  "ImmediatelyFast-Forge-1.5.4+1.20.4.jar"
+                 },
+                 {
+                     "md5":  "f424b363799c2fd29362c618c8a30bda",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/immersive_weathering-1.20.1-2.0.5-forge.jar",
+                     "name":  "immersive_weathering-1.20.1-2.0.5-forge",
+                     "filename":  "immersive_weathering-1.20.1-2.0.5-forge.jar"
+                 },
+                 {
+                     "md5":  "7c349670f77fd64b9e9854c4a8d82fcc",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/Jade-1.20.1-Forge-11.13.2.jar",
+                     "name":  "Jade-1.20.1-Forge-11.13.2",
+                     "filename":  "Jade-1.20.1-Forge-11.13.2.jar"
+                 },
+                 {
+                     "md5":  "b5f939a79e57f78a3ef0e6c1cfd6ea59",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/JadeAddons-1.20.1-Forge-5.5.1.jar",
+                     "name":  "JadeAddons-1.20.1-Forge-5.5.1",
+                     "filename":  "JadeAddons-1.20.1-Forge-5.5.1.jar"
+                 },
+                 {
+                     "md5":  "0a9943e374cbd9d6318bade4891e51e0",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/jei-1.20.1-forge-15.20.0.132.jar",
+                     "name":  "jei-1.20.1-forge-15.20.0.132",
+                     "filename":  "jei-1.20.1-forge-15.20.0.132.jar"
+                 },
+                 {
+                     "md5":  "758fe904b5a22ce7b2df824c1a064858",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/justzoom_forge_2.1.1_MC_1.20.1.jar",
+                     "name":  "justzoom_forge_2.1.1_MC_1.20.1",
+                     "filename":  "justzoom_forge_2.1.1_MC_1.20.1.jar"
+                 },
+                 {
+                     "md5":  "d51a112256e323e92909ed8ea97a6e46",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/Keerdm Zombie Apocalypse Essentials (TACZ) 1.42.jar",
+                     "name":  "Keerdm Zombie Apocalypse Essentials (TACZ) 1.42",
+                     "filename":  "Keerdm Zombie Apocalypse Essentials (TACZ) 1.42.jar"
+                 },
+                 {
+                     "md5":  "d69107c593e361e1b7b96733250bd098",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+                     "name":  "konkrete_forge_1.8.0_MC_1.20-1.20.1",
+                     "filename":  "konkrete_forge_1.8.0_MC_1.20-1.20.1.jar"
+                 },
+                 {
+                     "md5":  "3c207f249ba20d06c1304c48bab48a17",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/lanserverproperties-1.11.1-forge.jar",
+                     "name":  "lanserverproperties-1.11.1-forge",
+                     "filename":  "lanserverproperties-1.11.1-forge.jar"
+                 },
+                 {
+                     "md5":  "4e91f2d67377ca2fef78090ff055059b",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/lc2h-3.5.0.jar",
+                     "name":  "lc2h-3.5.0",
+                     "filename":  "lc2h-3.5.0.jar"
+                 },
+                 {
+                     "md5":  "3c596bbc1b5f769f22be751e9c21a6c8",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/lithostitched-forge-1.20.1-1.4.11.jar",
+                     "name":  "lithostitched-forge-1.20.1-1.4.11",
+                     "filename":  "lithostitched-forge-1.20.1-1.4.11.jar"
+                 },
+                 {
+                     "md5":  "e9f2f9b6b2e3f0c4fc38058bb806441e",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/lostcities-1.20-7.4.13.jar",
+                     "name":  "lostcities-1.20-7.4.13",
+                     "filename":  "lostcities-1.20-7.4.13.jar"
+                 },
+                 {
+                     "md5":  "73f94347bbc9050c0a28cb9aff3c3d26",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/lrtactical-1.20.1-0.3.0.jar",
+                     "name":  "lrtactical-1.20.1-0.3.0",
+                     "filename":  "lrtactical-1.20.1-0.3.0.jar"
+                 },
+                 {
+                     "md5":  "d4c4f4f3431e73bbc8e356a691a193c5",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/mcqoy-0.4.1+forge-1.20.jar",
+                     "name":  "mcqoy-0.4.1+forge-1.20",
+                     "filename":  "mcqoy-0.4.1+forge-1.20.jar"
+                 },
+                 {
+                     "md5":  "78af63fce71f5739ed3595012880d502",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/mcw-bridges-3.1.2-mc1.20.1forge.jar",
+                     "name":  "mcw-bridges-3.1.2-mc1.20.1forge",
+                     "filename":  "mcw-bridges-3.1.2-mc1.20.1forge.jar"
+                 },
+                 {
+                     "md5":  "e5b4855da98c482d202d5298007f2f04",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/minecraft-cursor-forge-3.11.3+1.20.1.jar",
+                     "name":  "minecraft-cursor-forge-3.11.3+1.20.1",
+                     "filename":  "minecraft-cursor-forge-3.11.3+1.20.1.jar"
+                 },
+                 {
+                     "md5":  "a05376e1425e338f6138da8eea005068",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/MineTraps-1.20.2-(v.2.3.0a).jar",
+                     "name":  "MineTraps-1.20.2-(v.2.3.0a)",
+                     "filename":  "MineTraps-1.20.2-(v.2.3.0a).jar"
+                 },
+                 {
+                     "md5":  "cbfd7febe91877849117fff48d0b5969",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/modernfix-forge-5.27.51+mc1.20.1.jar",
+                     "name":  "modernfix-forge-5.27.51+mc1.20.1",
+                     "filename":  "modernfix-forge-5.27.51+mc1.20.1.jar"
+                 },
+                 {
+                     "md5":  "f80a05d17e669e9a5f40cf68821601ed",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/moonlight-1.20-2.16.34-forge.jar",
+                     "name":  "moonlight-1.20-2.16.34-forge",
+                     "filename":  "moonlight-1.20-2.16.34-forge.jar"
+                 },
+                 {
+                     "md5":  "ce4b5bbb9ef6a7905c458ab599ef4cb2",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+                     "name":  "MouseTweaks-forge-mc1.20.1-2.25.1",
+                     "filename":  "MouseTweaks-forge-mc1.20.1-2.25.1.jar"
+                 },
+                 {
+                     "md5":  "426154f5c0fcc9d0ce7faaa4d3115795",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/notenoughanimations-forge-1.12.4-mc1.20.1.jar",
+                     "name":  "notenoughanimations-forge-1.12.4-mc1.20.1",
+                     "filename":  "notenoughanimations-forge-1.12.4-mc1.20.1.jar"
+                 },
+                 {
+                     "md5":  "1dd891634ac21591b5a692471f112572",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/oculus-mc1.20.1-1.8.0.jar",
+                     "name":  "oculus-mc1.20.1-1.8.0",
+                     "filename":  "oculus-mc1.20.1-1.8.0.jar"
+                 },
+                 {
+                     "md5":  "35eba1f897eb09eaff91579d65696565",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/Paraglider-forge-20.1.3.jar",
+                     "name":  "Paraglider-forge-20.1.3",
+                     "filename":  "Paraglider-forge-20.1.3.jar"
+                 },
+                 {
+                     "md5":  "13133ab9989e8474931cd7a86bd19cc5",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/Placebo-1.20.1-8.6.3.jar",
+                     "name":  "Placebo-1.20.1-8.6.3",
+                     "filename":  "Placebo-1.20.1-8.6.3.jar"
+                 },
+                 {
+                     "md5":  "46f8554181d4d240075ea4919d01fd01",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+                     "name":  "player-animation-lib-forge-1.0.2-rc1+1.20",
+                     "filename":  "player-animation-lib-forge-1.0.2-rc1+1.20.jar"
+                 },
+                 {
+                     "md5":  "62eef68af8acfeb1a51ca982365a2787",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/quantified api-omni-1.4.4.jar",
+                     "name":  "quantified api-omni-1.4.4",
+                     "filename":  "quantified api-omni-1.4.4.jar"
+                 },
+                 {
+                     "md5":  "3a46fb58e8ff12213e4dbc909f47a77d",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/radium-mc1.20.1-0.12.4+git.26c9d8e.jar",
+                     "name":  "radium-mc1.20.1-0.12.4+git.26c9d8e",
+                     "filename":  "radium-mc1.20.1-0.12.4+git.26c9d8e.jar"
+                 },
+                 {
+                     "md5":  "53bf35be2dc746e3fd7805a4e63a46a6",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/refurbished_furniture-forge-1.20.1-1.0.20.jar",
+                     "name":  "refurbished_furniture-forge-1.20.1-1.0.20",
+                     "filename":  "refurbished_furniture-forge-1.20.1-1.0.20.jar"
+                 },
+                 {
+                     "md5":  "3526211f591edc2efa4ac2fa4cbf4b5c",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/Simple Weapons 1.4.5 - 1.20.1.jar",
+                     "name":  "Simple Weapons 1.4.5 - 1.20.1",
+                     "filename":  "Simple Weapons 1.4.5 - 1.20.1.jar"
+                 },
+                 {
+                     "md5":  "da7ad14ec277f1c09c02ac0fe6df7693",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/skinlayers3d-forge-1.11.2-mc1.20.1.jar",
+                     "name":  "skinlayers3d-forge-1.11.2-mc1.20.1",
+                     "filename":  "skinlayers3d-forge-1.11.2-mc1.20.1.jar"
+                 },
+                 {
+                     "md5":  "71ed4aa5369bcb7afa09fd06f60490b9",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/skinrestorer-2.8.1+1.20-forge.jar",
+                     "name":  "skinrestorer-2.8.1+1.20-forge",
+                     "filename":  "skinrestorer-2.8.1+1.20-forge.jar"
+                 },
+                 {
+                     "md5":  "687c18cefa558ca8101ef97914d9ba6b",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
+                     "name":  "sodiumdynamiclights-forge-1.0.10-1.20.1",
+                     "filename":  "sodiumdynamiclights-forge-1.0.10-1.20.1.jar"
+                 },
+                 {
+                     "md5":  "75807590ae2648ecdeb855705868ce59",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
+                     "name":  "sodiumoptionsapi-forge-1.0.10-1.20.1",
+                     "filename":  "sodiumoptionsapi-forge-1.0.10-1.20.1.jar"
+                 },
+                 {
+                     "md5":  "f9d3a20a33a071a06c9dcfcf4c5959be",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/sophisticatedbackpacks-1.20.1-3.24.58.1917.jar",
+                     "name":  "sophisticatedbackpacks-1.20.1-3.24.58.1917",
+                     "filename":  "sophisticatedbackpacks-1.20.1-3.24.58.1917.jar"
+                 },
+                 {
+                     "md5":  "72ae42a446aa5d4f506829082d606a4d",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/sophisticatedcore-1.20.1-1.3.56.2042.jar",
+                     "name":  "sophisticatedcore-1.20.1-1.3.56.2042",
+                     "filename":  "sophisticatedcore-1.20.1-1.3.56.2042.jar"
+                 },
+                 {
+                     "md5":  "499b9f228dbeafdf5ca499d1d3c84d5e",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/sound-physics-remastered-forge-1.20.1-1.4.10.jar",
+                     "name":  "sound-physics-remastered-forge-1.20.1-1.4.10",
+                     "filename":  "sound-physics-remastered-forge-1.20.1-1.4.10.jar"
+                 },
+                 {
+                     "md5":  "95dcd3b5400cc5eb5d0478a744e6ef98",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/spark-1.10.53-forge.jar",
+                     "name":  "spark-1.10.53-forge",
+                     "filename":  "spark-1.10.53-forge.jar"
+                 },
+                 {
+                     "md5":  "8ee84237945ec23b94b9e5d65ec57460",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/sporeinfest-1.0.6.jar",
+                     "name":  "sporeinfest-1.0.6",
+                     "filename":  "sporeinfest-1.0.6.jar"
+                 },
+                 {
+                     "md5":  "c148ad7d822c1f814b17dd09fb1d035a",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/SporeMore-1.1-1.20.1.jar",
+                     "name":  "SporeMore-1.1-1.20.1",
+                     "filename":  "SporeMore-1.1-1.20.1.jar"
+                 },
+                 {
+                     "md5":  "ddb1ec159652de708cd4988e88d28a17",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/spore_2.2.0h_1.20.1.jar",
+                     "name":  "spore_2.2.0h_1.20.1",
+                     "filename":  "spore_2.2.0h_1.20.1.jar"
+                 },
+                 {
+                     "md5":  "eb67e7fea407250cfa9fcf897f9b63b9",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/supermartijn642corelib-1.1.21-forge-mc1.20.1.jar",
+                     "name":  "supermartijn642corelib-1.1.21-forge-mc1.20.1",
+                     "filename":  "supermartijn642corelib-1.1.21-forge-mc1.20.1.jar"
+                 },
+                 {
+                     "md5":  "cc3d726c975632a9a4b78dea7a1d5fc5",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/survival_instinct-1.0.2-forge-1.20.1.jar",
+                     "name":  "survival_instinct-1.0.2-forge-1.20.1",
+                     "filename":  "survival_instinct-1.0.2-forge-1.20.1.jar"
+                 },
+                 {
+                     "md5":  "65e19238d5669d1a74305ba7e49408f7",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/tacz-1.20.1-1.1.8-hotfix.jar",
+                     "name":  "tacz-1.20.1-1.1.8-hotfix",
+                     "filename":  "tacz-1.20.1-1.1.8-hotfix.jar"
+                 },
+                 {
+                     "md5":  "9d8e305b95ae5a8f7b446d6346324267",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/TerraBlender-forge-1.20.1-3.0.1.10.jar",
+                     "name":  "TerraBlender-forge-1.20.1-3.0.1.10",
+                     "filename":  "TerraBlender-forge-1.20.1-3.0.1.10.jar"
+                 },
+                 {
+                     "md5":  "b143cfd648086c68d7f47a86b8994ee3",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/Terralith_1.20.x_v2.5.4.jar",
+                     "name":  "Terralith_1.20.x_v2.5.4",
+                     "filename":  "Terralith_1.20.x_v2.5.4.jar"
+                 },
+                 {
+                     "md5":  "19290079d700b5e003fcb3df780536f8",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/trashslot-forge-1.20.1-15.1.5.jar",
+                     "name":  "trashslot-forge-1.20.1-15.1.5",
+                     "filename":  "trashslot-forge-1.20.1-15.1.5.jar"
+                 },
+                 {
+                     "md5":  "2d12e71b04e00935822743dedaf2e5d4",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/voicechat-forge-1.20.1-2.6.20.jar",
+                     "name":  "voicechat-forge-1.20.1-2.6.20",
+                     "filename":  "voicechat-forge-1.20.1-2.6.20.jar"
+                 },
+                 {
+                     "md5":  "345d3ecdf94dffaa0e3ba55538c65f80",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/watut-forge-1.20.1-1.2.3.jar",
+                     "name":  "watut-forge-1.20.1-1.2.3",
+                     "filename":  "watut-forge-1.20.1-1.2.3.jar"
+                 },
+                 {
+                     "md5":  "eb4dcdc36470b7fd858c39547ad1c7d2",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/waystones-forge-1.20.1-14.1.20.jar",
+                     "name":  "waystones-forge-1.20.1-14.1.20",
+                     "filename":  "waystones-forge-1.20.1-14.1.20.jar"
+                 },
+                 {
+                     "md5":  "35779121a4073ba1097db4e5042d61e3",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/xaerominimap-forge-1.20.1-26.1.0.jar",
+                     "name":  "xaerominimap-forge-1.20.1-26.1.0",
+                     "filename":  "xaerominimap-forge-1.20.1-26.1.0.jar"
+                 },
+                 {
+                     "md5":  "8e5480d7ea106fb6da96e3a84f8dfe03",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/xaeroworldmap-forge-1.20.1-1.41.2.jar",
+                     "name":  "xaeroworldmap-forge-1.20.1-1.41.2",
+                     "filename":  "xaeroworldmap-forge-1.20.1-1.41.2.jar"
+                 },
+                 {
+                     "md5":  "2437cb642e24726a83f864e345f24479",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
+                     "name":  "yet_another_config_lib_v3-3.6.6+1.20.1-forge",
+                     "filename":  "yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar"
+                 },
+                 {
+                     "md5":  "1f0a5951245512129c263cfa50356f3f",
+                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/zoomify-1.20.x-fabric-v1.1.jar",
+                     "name":  "zoomify-1.20.x-fabric-v1.1",
+                     "filename":  "zoomify-1.20.x-fabric-v1.1.jar"
+                 }
   ]
 }
