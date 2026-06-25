@@ -8,6 +8,12 @@
       "filename": "e4mc-forge-6.2.0.jar",
       "url": "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/e4mc-forge-6.2.0.jar",
       "md5": "6FCBCBF23873D9D8A8424854DF4EDEB5"
+    },
+    {
+      "md5":  "0a9943e374cbd9d6318bade4891e51e0",
+      "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/jei-1.20.1-forge-15.20.0.132.jar",
+      "name":  "jei-1.20.1-forge-15.20.0.132",
+      "filename":  "jei-1.20.1-forge-15.20.0.132.jar"
     }
   ]
 }
