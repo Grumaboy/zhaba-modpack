@@ -118,18 +118,6 @@
                      "filename":  "Connector-1.0.0-beta.48+1.20.1.jar"
                  },
                  {
-                     "md5":  "d14cdccb4b6c161d9846cc8cdf03068e",
-                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/continuity-3.0.0+1.20.1.forge.jar",
-                     "name":  "continuity-3.0.0+1.20.1.forge",
-                     "filename":  "continuity-3.0.0+1.20.1.forge.jar"
-                 },
-                 {
-                     "md5":  "8eea809da8a9220834f34e3b88be0f94",
-                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/continuity-3.0.2-custom-fabric-connector-fix+1.20.1.jar",
-                     "name":  "continuity-3.0.2-custom-fabric-connector-fix+1.20.1",
-                     "filename":  "continuity-3.0.2-custom-fabric-connector-fix+1.20.1.jar"
-                 },
-                 {
                      "md5":  "6fb9ccbe8c05c1da61c224d1127e9643",
                      "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/coroutil-forge-1.20.1-1.3.7.jar",
                      "name":  "coroutil-forge-1.20.1-1.3.7",
@@ -212,12 +200,6 @@
                      "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/entityculling-forge-1.10.5-mc1.20.1.jar",
                      "name":  "entityculling-forge-1.10.5-mc1.20.1",
                      "filename":  "entityculling-forge-1.10.5-mc1.20.1.jar"
-                 },
-                 {
-                     "md5":  "e231f88d8db07e4761d1c53da67ecad4",
-                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/Essential_1-4-0-3_forge_1-20-1.jar",
-                     "name":  "Essential_1-4-0-3_forge_1-20-1",
-                     "filename":  "Essential_1-4-0-3_forge_1-20-1.jar"
                  },
                  {
                      "md5":  "2859d401e221e94acf0b48c5f7efa50b",
@@ -346,12 +328,6 @@
                      "filename":  "lrtactical-1.20.1-0.3.0.jar"
                  },
                  {
-                     "md5":  "d4c4f4f3431e73bbc8e356a691a193c5",
-                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/mcqoy-0.4.1+forge-1.20.jar",
-                     "name":  "mcqoy-0.4.1+forge-1.20",
-                     "filename":  "mcqoy-0.4.1+forge-1.20.jar"
-                 },
-                 {
                      "md5":  "78af63fce71f5739ed3595012880d502",
                      "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/mcw-bridges-3.1.2-mc1.20.1forge.jar",
                      "name":  "mcw-bridges-3.1.2-mc1.20.1forge",
@@ -392,12 +368,6 @@
                      "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/notenoughanimations-forge-1.12.4-mc1.20.1.jar",
                      "name":  "notenoughanimations-forge-1.12.4-mc1.20.1",
                      "filename":  "notenoughanimations-forge-1.12.4-mc1.20.1.jar"
-                 },
-                 {
-                     "md5":  "1dd891634ac21591b5a692471f112572",
-                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/oculus-mc1.20.1-1.8.0.jar",
-                     "name":  "oculus-mc1.20.1-1.8.0",
-                     "filename":  "oculus-mc1.20.1-1.8.0.jar"
                  },
                  {
                      "md5":  "35eba1f897eb09eaff91579d65696565",
