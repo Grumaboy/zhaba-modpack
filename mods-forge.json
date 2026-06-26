@@ -136,12 +136,6 @@
                      "filename":  "create-1.20.1-6.0.8.jar"
                  },
                  {
-                     "md5":  "f6e19dcecf60a85efe6c05372d331033",
-                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/createbetterfps-1.20.1-1.1.2.jar",
-                     "name":  "createbetterfps-1.20.1-1.1.2",
-                     "filename":  "createbetterfps-1.20.1-1.1.2.jar"
-                 },
-                 {
                      "md5":  "3e0976b862fd087493c7356f623f5cd7",
                      "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/createdeco-2.0.3-1.20.1-forge.jar",
                      "name":  "createdeco-2.0.3-1.20.1-forge",
