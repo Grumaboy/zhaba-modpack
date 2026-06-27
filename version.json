@@ -1,5 +1,5 @@
 {
-  "version": "3.0.0",
+  "version": "3.1.0",
   "url": "https://github.com/Grumaboy/zhaba-modpack/releases/latest/download/ZhabaLauncher.exe",
-  "description": "Версия в углу, полная синхронизация модов, актуальный Forge"
+  "description": "Убрал launcher_settings.json, добавлены картинки для лаунчера, исправлены баги"
 }
