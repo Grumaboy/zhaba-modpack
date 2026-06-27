@@ -177,13 +177,7 @@
                      "name":  "dynamic-fps-3.11.4+minecraft-1.20.0-forge",
                      "filename":  "dynamic-fps-3.11.4+minecraft-1.20.0-forge.jar"
                  },
-                 {
-                     "md5":  "6fcbcbf23873d9d8a8424854df4edeb5",
-                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/e4mc-forge-6.2.0.jar",
-                     "name":  "e4mc-forge-6.2.0",
-                     "filename":  "e4mc-forge-6.2.0.jar"
-                 },
-                 {
+                                  {
                      "md5":  "1dfb2ee49ce9ad5d484ff3eea0d628b7",
                      "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/embeddium-0.3.31+mc1.20.1.jar",
                      "name":  "embeddium-0.3.31+mc1.20.1",
@@ -291,13 +285,7 @@
                      "name":  "kotlinforforge-4.12.0-all",
                      "filename":  "kotlinforforge-4.12.0-all.jar"
                  },
-                 {
-                     "md5":  "3c207f249ba20d06c1304c48bab48a17",
-                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/lanserverproperties-1.11.1-forge.jar",
-                     "name":  "lanserverproperties-1.11.1-forge",
-                     "filename":  "lanserverproperties-1.11.1-forge.jar"
-                 },
-                 {
+                                  {
                      "md5":  "4e91f2d67377ca2fef78090ff055059b",
                      "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/lc2h-3.5.0.jar",
                      "name":  "lc2h-3.5.0",
@@ -555,11 +543,5 @@
                      "name":  "yet_another_config_lib_v3-3.6.6+1.20.1-forge",
                      "filename":  "yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar"
                  },
-                 {
-                     "md5":  "1f0a5951245512129c263cfa50356f3f",
-                     "url":  "https://github.com/Grumaboy/zhaba-modpack/raw/refs/heads/main/mods/zoomify-1.20.x-fabric-v1.1.jar",
-                     "name":  "zoomify-1.20.x-fabric-v1.1",
-                     "filename":  "zoomify-1.20.x-fabric-v1.1.jar"
-                 }
   ]
 }
