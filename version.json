@@ -1,5 +1,5 @@
 {
-  "version": "3.2.0",
+  "version": "3.4.0",
   "url": "https://github.com/Grumaboy/zhaba-modpack/releases/latest/download/ZhabaLauncher.exe",
-  "description": "Фоновые картинки, исправлены кнопки и расположение настроек"
+  "description": "Третья карточка теперь ставит модпаки с Modrinth (.mrpack)"
 }
